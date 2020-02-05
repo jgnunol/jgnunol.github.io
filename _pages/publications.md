@@ -14,7 +14,7 @@ author_profile: true
 {% include base_path %}
 
 
-##Work in Progress
+## Work in Progress
 -------
 
 {% for post in site.publications reversed %}
