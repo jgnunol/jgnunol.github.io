@@ -1,7 +1,8 @@
-a# main links links
+  
+# main links links
 main:
   - title: "Research"
-    url: /pulications/
+    url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/    
