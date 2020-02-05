@@ -17,6 +17,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.progress reversed %}
+{% for post in site.progressjn reversed %}
   {% include archive-single.html %}
 {% endfor %}
