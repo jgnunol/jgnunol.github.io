@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Work in progress
+## Publications
 
 {% include base_path %}
 
@@ -13,6 +13,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-
+## Work in progress
 
 
