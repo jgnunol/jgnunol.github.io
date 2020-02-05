@@ -1,4 +1,3 @@
----
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-78383575-1"></script>
 <script>
@@ -8,7 +7,7 @@
 
   gtag('config', 'UA-78383575-1');
 </script>
-
+---
 permalink: /
 title: "Welcome"
 excerpt: "Welcome"
