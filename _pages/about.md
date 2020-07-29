@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am an economist currently working in the [Departmento of Food, Agricultural, and Resource Economics](https://www.uoguelph.ca/fare/) at the [University of Guelph](https://www.uoguelph.ca/). I am broadly interested in Organizational Economics, Experimental Economics, and Agricultural Economics. 
+I am an economist currently working in the [Department of Food, Agricultural, and Resource Economics](https://www.uoguelph.ca/fare/) at the [University of Guelph](https://www.uoguelph.ca/). I am broadly interested in Organizational Economics, Experimental Economics, and Agricultural Economics. 
 
 I received a Ph.D. in Agricultural Economics from [Purdue University](https://ag.purdue.edu/agecon/Pages/default.aspx) where I specialized in Contract Theory, Experimental Economics, and [Computational Science](https://www.purdue.edu/gradschool/cigp/). I have an M.S. in Applied Economics from the [University of Minnesota](https://www.apec.umn.edu/), and an undergraduate degree in Economics from the [Universidad de Guadalajara](http://www.cucea.udg.mx/). Before joining U of G, I worked as a Senior Economist for the [Central Bank of Mexico](https://www.banxico.org.mx/indexen.html).
