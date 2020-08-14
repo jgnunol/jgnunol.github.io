@@ -9,3 +9,5 @@ venue:
 paperurl: 
 citation: 
 ---
+
+[Link to working paper](https://ageconsearch.umn.edu/record/304302?ln=en)
