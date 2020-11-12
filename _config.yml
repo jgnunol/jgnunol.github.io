@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "José G. Nuño Ledesma"
+title                    : "José Nuño-Ledesma"
 title_separator          : "-"
-name                     : &name "José G. Nuño Ledesma"
+name                     : &name "José G. Nuño-Ledesma"
 description              : &description "personal description"
 url                      : https://jgnunol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "José Nuño"
+  name             : "José Nuño-Ledesma"
   avatar           : "profile.png"
   bio              : "Assistant Professor at the University of Guelph. jnuno[at]uoguelph.ca"
   location         : "Guelph, Canada"
