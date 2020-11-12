@@ -7,6 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+Graduate
+
+{% for post in site.teaching reversed %}
+	{% if post.type == 'Graduate' %}
+		{% include archive-single.html %}
+	{% endif%}
+{% endfor %}
+
+
 Undergraduate
 
 {% for post in site.teaching reversed %}
