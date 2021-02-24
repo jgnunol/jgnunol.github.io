@@ -4,10 +4,9 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
+{% include base_path %}
 
 You can also find my articles on [Google Scholar](https://scholar.google.ca/citations?user=udjj4tsAAAAJ&hl=en).
-
-{% include base_path %}
 
 ## Publications
 -------
