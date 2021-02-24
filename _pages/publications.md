@@ -13,6 +13,15 @@ author_profile: true
 
 {% include base_path %}
 
+## Publications
+-------
+
+{% for post in site.publications reversed %}
+	{% if post.type == 'published' %}
+		{% include archive-single.html %}
+	{% endif%}
+{% endfor %}
+
 
 ## Work in Progress
 -------
