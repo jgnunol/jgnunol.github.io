@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 header:
-  overlay_image: https://jgnunol.github.io/images/aves.jpg
+  overlay_image: https://jgnunol.github.io/images/aves2.jpg
   caption: "La creación de las aves - Varo"
 permalink: /cv/
 author_profile: true
