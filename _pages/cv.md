@@ -27,7 +27,4 @@ Post Ph.D. work experience
   * Division of Economic Research.
   * Central Bank of Mexico.
 
-Professional experience in a map
-======
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1IuP01EtoMZPZ8oU_-3-BB82Amfax-oKc" width="640" height="480"></iframe>
