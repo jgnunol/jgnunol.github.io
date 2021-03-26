@@ -1,6 +1,10 @@
 ---
 layout: archive
 title: "Research"
+excerpt: "Publications and work in progress"
+header:
+  overlay_image: https://jgnunol.github.io/images/holdingbalance.jpg
+  caption: "Woman holding a balance - Vermeer"
 permalink: /publications/
 author_profile: true
 ---
