@@ -3,7 +3,7 @@ layout: archive
 title: "Research"
 excerpt: "Published and in progress"
 header:
-  overlay_image: https://jgnunol.github.io/images/harmonices.png
+  overlay_image: https://jgnunol.github.io/images/harmonices2.jpg
   caption: "From Kepler's Harmonices Mundi"
 permalink: /publications/
 author_profile: true
