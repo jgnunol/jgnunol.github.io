@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 header:
-  overlay_image: https://jgnunol.github.io/images/harmonices4.png
-  caption: "La creación de las aves - Varo"
+  overlay_image: https://jgnunol.github.io/images/harmonices4.jpg
+  caption: "From Kepler's Harmonice Mundi"
 permalink: /cv/
 author_profile: true
 redirect_from:
