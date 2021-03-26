@@ -12,8 +12,3 @@ I am an economist currently working as an Assistant Professor for the [Departmen
 
 I received a Ph.D. from [Purdue University](https://ag.purdue.edu/agecon/Pages/default.aspx) where I specialized in Agricultural Economics, Nonlinear Pricing, Contract Theory, and [Computational Science](https://www.purdue.edu/gradschool/cigp/). I have an M.S. in Applied Economics from the [University of Minnesota](https://www.apec.umn.edu/), and an undergraduate degree in Economics from the [Universidad de Guadalajara](http://www.cucea.udg.mx/) in Mexico.
 
-
-Professional experience in a map
-======
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1IuP01EtoMZPZ8oU_-3-BB82Amfax-oKc" width="640" height="480"></iframe>
