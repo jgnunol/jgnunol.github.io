@@ -1,10 +1,13 @@
 ---
 permalink: /
-title: "Welcome to my webpage"
-excerpt: "Applied and agricultural economist"
+title: "Applied and Agricultural Economics"
+excerpt: "Welcome"
 header:
   overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
   caption: "Las Hilanderas - Velázquez"
+  actions:
+    - label "Research"
+      url: "https://jgnunol.github.io/publications/"
 author_profile: true
 redirect_from: 
   - /about/
