@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here for a pdf version of my CV.](https://jgnunol.github.io/files/CV.pdf)
+[Available in PDF format here.](https://jgnunol.github.io/files/CV.pdf)
 
 Education
 ======
