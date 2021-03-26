@@ -11,8 +11,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome
-======
 
 I am an economist currently working as an Assistant Professor for the [Department of Food, Agricultural, and Resource Economics](https://www.uoguelph.ca/fare/) at the [University of Guelph](https://www.uoguelph.ca/). I am broadly interested in Organizational, Experimental, and Agricultural Economics. 
 
