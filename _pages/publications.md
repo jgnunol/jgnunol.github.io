@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Research"
-excerpt: "Publications and work in progress"
+excerpt: "Published and in progress"
 header:
-  overlay_image: https://jgnunol.github.io/images/holdingbalance.jpg
-  caption: "Woman holding a balance - Vermeer"
+  overlay_image: https://jgnunol.github.io/images/harmonices.png
+  caption: "From Kepler's Harmonices Mundi"
 permalink: /publications/
 author_profile: true
 ---
