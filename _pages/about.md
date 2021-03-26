@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Applied and Agricultural Economics"
-excerpt: "Welcome"
+title: "Welcome"
+excerpt: "Applied and Agricultural Economist"
 header:
   overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
   caption: "Las Hilanderas - Velázquez"
