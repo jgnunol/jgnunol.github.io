@@ -19,7 +19,7 @@ Education
 
 Post Ph.D. work experience
 ======
-* January 2020 - Current: [Assistant Professor.](https://jgnunol.github.io/files/CV.pdf)
+* January 2020 - Current: [Assistant Professor](https://www.uoguelph.ca/oac/news/new-food-industry-economics-and-management-prof).
   * Dept. of Food, Ag. & Resource Economics.
   * University of Guelph.
 
