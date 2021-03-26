@@ -2,10 +2,10 @@
 permalink: /
 title: "Welcome"
 excerpt: "Applied and Agricultural Economist"
+excerpt: "second excerpt"
 header:
   overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
   caption: "Las Hilanderas - Velázquez"
-  show_overlay_excerpt: false
 author_profile: true
 redirect_from: 
   - /about/
