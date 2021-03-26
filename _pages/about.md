@@ -5,11 +5,7 @@ excerpt: "Applied and Agricultural Economist"
 header:
   overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
   caption: "Las Hilanderas - Velázquez"
-  actions:
-    - label: "Research"
-      url: "https://jgnunol.github.io/publications/"
-    - label: "Teaching"
-      url: "https://jgnunol.github.io/teaching/"
+  show_overlay_excerpt: false
 author_profile: true
 redirect_from: 
   - /about/
