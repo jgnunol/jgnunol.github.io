@@ -2,6 +2,9 @@
 permalink: /
 title: "Welcome"
 excerpt: "Welcome"
+header:
+  overlay_image: /images/hilanderas.jpg
+  caption: "Las Hilanderas - Velázquez"
 author_profile: true
 redirect_from: 
   - /about/
