@@ -6,7 +6,7 @@ header:
   overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
   caption: "Las Hilanderas - Velázquez"
   actions:
-    - label "Research"
+    - label: "Research"
       url: "https://jgnunol.github.io/publications/"
 author_profile: true
 redirect_from: 
