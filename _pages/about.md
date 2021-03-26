@@ -8,6 +8,8 @@ header:
   actions:
     - label: "Research"
       url: "https://jgnunol.github.io/publications/"
+    - label: "Teaching"
+      url: "https://jgnunol.github.io/teaching/"
 author_profile: true
 redirect_from: 
   - /about/
