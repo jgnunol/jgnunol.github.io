@@ -6,6 +6,11 @@ header:
   overlay_image: https://jgnunol.github.io/images/harmonices.png
   caption: "From Kepler's Harmonices Mundi"
 permalink: /publications/
+redirect_from: 
+  - /research/
+  - /research.html
+  - /portfolio/
+  - /portfolio.html
 author_profile: true
 ---
 {% include base_path %}
