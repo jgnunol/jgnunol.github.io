@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "José Nuño-Ledesma"
+title                    : "José G. Nuño-Ledesma"
 title_separator          : "-"
 name                     : &name "José G. Nuño-Ledesma"
 description              : &description "personal description"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "José Nuño-Ledesma"
+  name             : "José G. Nuño-Ledesma"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at the University of Guelph. jnuno[at]uoguelph.ca"
+  bio              : "jnuno[at]uoguelph[dot]ca"
   location         : "Guelph, Canada"
-  employer         :
+  employer         : "University of Guelph"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=udjj4tsAAAAJ&hl=en"
   email            :
