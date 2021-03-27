@@ -10,7 +10,8 @@ author_profile: true
 ---
 {% include base_path %}
 
-You can also find my articles on [Google Scholar](https://scholar.google.ca/citations?user=udjj4tsAAAAJ&hl=en).
+* [Google Scholar](https://scholar.google.ca/citations?user=udjj4tsAAAAJ&hl=en).
+* [RePEc/IDEAS](https://ideas.repec.org/e/pnu115.html).
 
 ## Publications
 -------
