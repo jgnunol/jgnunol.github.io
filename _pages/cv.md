@@ -3,7 +3,7 @@ layout: archive
 title: "Curriculum vitae"
 header:
   overlay_image: https://jgnunol.github.io/images/harmonices4.jpg
-  caption: "From Kepler's Harmonice Mundi"
+  caption: "From Kepler's Harmonices Mundi"
 permalink: /cv/
 author_profile: true
 redirect_from:
