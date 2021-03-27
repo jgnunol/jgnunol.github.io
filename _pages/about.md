@@ -11,8 +11,24 @@ redirect_from:
   - /about.html
 ---
 
+Current appointment
+======
+* Assistant Professor, [Food, Agricultural, and Resource Economics](https://www.uoguelph.ca/fare/), [University of Guelph](https://www.uoguelph.ca/), Canada.
 
-I am an economist currently working as an Assistant Professor for the [Department of Food, Agricultural, and Resource Economics](https://www.uoguelph.ca/fare/) at the [University of Guelph](https://www.uoguelph.ca/). I am broadly interested in Organizational, Experimental, and Agricultural Economics. 
+Research Interests
+======
+* Agricultural and Resource Economics
+* Contract Theory
+* Experimental Economics
+* Mechanism Design
+* Organizational Economics
 
-I received a Ph.D. from [Purdue University](https://ag.purdue.edu/agecon/Pages/default.aspx) where I specialized in Agricultural Economics, Nonlinear Pricing, Contract Theory, and [Computational Science](https://www.purdue.edu/gradschool/cigp/). I have an M.S. in Applied Economics from the [University of Minnesota](https://www.apec.umn.edu/), and an undergraduate degree in Economics from the [Universidad de Guadalajara](http://www.cucea.udg.mx/) in Mexico.
-
+Education
+======
+* Ph.D. [Agricultural Economics](https://ag.purdue.edu/agecon/Pages/default.aspx), [Purdue University](https://www.purdue.edu/), IN, USA.
+  * [Computational Science](https://www.purdue.edu/gradschool/cigp/) specialization.
+ 
+Relevant Links
+======
+* [IDEAS/RePEc](https://ideas.repec.org/e/pnu115.html)
+* [Google Scholar](https://scholar.google.ca/citations?user=udjj4tsAAAAJ&hl=en)
