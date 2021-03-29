@@ -33,4 +33,4 @@ Jose Nuno-Ledesma<br/>
 J.D. MacLachlan Building<br/>
 50 Stone Road East, Office 307<br/>
 Guelph, Ontario, Canada N1G 2W1<br/>
-jnuno'[at]'uoguelph'[dot]'com
+jnuno[at]uoguelph[dot]com
