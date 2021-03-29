@@ -21,6 +21,7 @@ Research Interests
 * Contract Theory
 * Experimental Economics
 * Organizational Economics
+* Screening and Nonlinear Pricing
 
 Education
 ======
