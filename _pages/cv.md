@@ -16,10 +16,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Agricultural Economics, Purdue University, 2018.
+* Purdue University, Ph.D. Agricultural Economics, 2018.
    * [Computational Science](https://www.purdue.edu/gradschool/cigp/) specialization.
-* M.S. in Applied Economics, University of Minnesota - Twin Cities, 2014.
-* Bachelor in Economics, Universidad de Guadalajara, 2010.
+* University of Minnesota - Twin Cities, M.S. in Applied Economics, 2014.
+* Universidad de Guadalajara, Mexico, Bachelor in Economics, 2010.
 
 Post Ph.D. work experience
 ======
