@@ -20,7 +20,6 @@ Research Interests
 * Agricultural and Resource Economics
 * Contract Theory
 * Experimental Economics
-* Mechanism Design
 * Organizational Economics
 
 Education
