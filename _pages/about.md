@@ -26,7 +26,10 @@ Education
 ======
 * Ph.D. [Agricultural Economics](https://ag.purdue.edu/agecon/Pages/default.aspx), [Purdue University](https://www.purdue.edu/), IN, USA.
  
-Relevant Links
+Contact information
 ======
-* [IDEAS/RePEc](https://ideas.repec.org/e/pnu115.html)
-* [Google Scholar](https://scholar.google.ca/citations?user=udjj4tsAAAAJ&hl=en)
+University of Guelph<br/>
+J.D. MacLachlan Building<br/>
+50 Stone Road East, Office 307<br/>
+Guelph, Ontario, Canada N1G 2W1<br/>
+jnuno'[at]'uoguelph'[dot]'com
