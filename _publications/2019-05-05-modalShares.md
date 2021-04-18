@@ -6,7 +6,6 @@ permalink: /research/2019-05-05-modalShares
 excerpt: 
 date: 2019-05-05
 venue: Journal of Global Economic Analysis
-citation: Nuno-Ledesma, J. G., & Villoria, N. B. (2019). Estimating International Trade Margins Shares by Mode of Transport for the GTAP Data Base. Journal of Global Economic Analysis, 4(1), 28-49.
 ---
 
 With [Nelson B. Villoria](http://www-personal.k-state.edu/~nvilloria/index.html). DOI: [10.21642/JGEA.040102AF](http://dx.doi.org/10.21642/JGEA.040102AF).
