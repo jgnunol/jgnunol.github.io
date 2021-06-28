@@ -18,10 +18,10 @@ Current appointment
 Research interests
 ======
 * Agricultural and Resource Economics
-* Contract Theory
-* Experimental Economics
+* Nutritional and Food Policy
 * Organizational Economics
-* Screening and Nonlinear Pricing
+* Screening
+* Experimental Economics
 
 Education
 ======
