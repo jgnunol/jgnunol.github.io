@@ -20,7 +20,7 @@ Research interests
 * Organizational Economics
 * Mechanism Design
 * Experimental Economics
-* Nutririon Policy
+* Nutrition Policy
 * Resource Economics
 
 Education
