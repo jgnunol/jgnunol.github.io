@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome"
-excerpt: "Applied and Agricultural Economist"
+excerpt: "Economist"
 header:
   overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
   caption: "Las Hilanderas - Velázquez"
@@ -17,11 +17,11 @@ Current appointment
 
 Research interests
 ======
-* Agricultural and Resource Economics
-* Nutritional and Food Policy
 * Organizational Economics
-* Screening
+* Mechanism Design
 * Experimental Economics
+* Nutririon Policy
+* Resource Economics
 
 Education
 ======
