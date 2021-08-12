@@ -24,12 +24,10 @@ Education
 Post Ph.D. work experience
 ======
 * 2020 - Current: [Assistant Professor](https://www.uoguelph.ca/oac/news/new-food-industry-economics-and-management-prof).
-  * Dept. of Food, Ag. & Resource Economics.
-  * University of Guelph.
+  * Dept. of Food, Ag. & Resource Economics. University of Guelph.
 
 * 2019: Senior Economist.
-  * Division of Economic Research.
-  * Central Bank of Mexico.
+  * Division of Economic Research. Central Bank of Mexico.
 
 
 Professional experience in a map
