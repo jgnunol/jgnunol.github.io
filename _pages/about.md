@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome"
-excerpt: "Economist"
+excerpt: "Applied Economist"
 header:
   overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
   caption: "Las Hilanderas - Velázquez"
