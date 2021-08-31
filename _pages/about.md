@@ -25,7 +25,7 @@ Research interests
 
 Education
 ======
-* Ph.D. [Agricultural Economics](https://ag.purdue.edu/agecon/Pages/default.aspx), [Purdue University](https://www.purdue.edu/), IN, USA.
+* Ph.D., [Purdue University](https://www.purdue.edu/), IN, USA.
  
 Contact information
 ======
