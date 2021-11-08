@@ -18,9 +18,9 @@ Current appointment
 Research interests
 ======
 * Organizational Economics
-* Screening and Mechanism Design
+* Screening
 * Experimental Economics
-* Nutrition Policy
+* Nutrition and Agricultural Policy
 * Resource and Development Economics
 
 Education
