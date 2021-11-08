@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome"
-excerpt: "to my page"
+excerpt: "Resource and Applied Economics"
 header:
   overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
   caption: "Las Hilanderas - Velázquez"
@@ -18,10 +18,10 @@ Current appointment
 Research interests
 ======
 * Organizational Economics
-* Mechanism Design
+* Screening and Mechanism Design
 * Experimental Economics
 * Nutrition Policy
-* Resource Economics
+* Resource and Development Economics
 
 Education
 ======
