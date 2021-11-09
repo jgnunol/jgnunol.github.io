@@ -17,7 +17,6 @@ redirect_from:
 Education
 ======
 * Ph.D., Purdue University, 2018.
-  * Computational science specialization.
 * M.S., University of Minnesota - Twin Cities, 2014.
 * Bachelor's degree, Universidad de Guadalajara, Mexico, 2010.
 
