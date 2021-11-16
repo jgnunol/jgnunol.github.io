@@ -20,7 +20,7 @@ Research interests
 * Organizational Economics
 * Screening
 * Experimental Economics
-* Nutrition Policy
+* Nutrition and Health Policy
 * Resource and Development Economics
 
 Education
