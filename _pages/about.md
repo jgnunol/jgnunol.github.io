@@ -13,7 +13,7 @@ redirect_from:
 
 Current appointment
 ======
-* Assistant Professor, [University of Guelph](https://www.uoguelph.ca/) - [Food, Agricultural, & Resource Economics](https://www.uoguelph.ca/fare/).
+* Assistant Professor, [University of Guelph](https://www.uoguelph.ca/) - [FARE](https://www.uoguelph.ca/fare/).
 
 Research interests
 ======
