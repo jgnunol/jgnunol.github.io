@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "José G. Nuño"
+title                    : "José Nuño"
 title_separator          : "-"
 name                     : &name "José G. Nuño"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "José Nuño"
+  name             : "José G. Nuño"
   avatar           : "profile.png"
   bio              : "email: jnuno[at]uoguelph[dot]ca"
   location         : "Guelph, Canada"
