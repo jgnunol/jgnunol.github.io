@@ -29,7 +29,7 @@ Education
  
 Contact information
 ======
-Jose G. Nuno-Ledesma<br/>
+José G. Nuño<br/>
 J.D. MacLachlan Building<br/>
 50 Stone Road East, Office 307<br/>
 Guelph, Ontario, Canada N1G 2W1<br/>
