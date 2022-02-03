@@ -16,9 +16,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Purdue University, 2018.
-* M.S., University of Minnesota - Twin Cities, 2014.
-* Bachelor's degree, Universidad de Guadalajara, Mexico, 2010.
+* Ph.D., [Purdue University](https://www.purdue.edu/), 2018.
+* M.S., [University of Minnesota-Twin Cities](https://twin-cities.umn.edu/), 2014.
+* Bachelor's degree, [Universidad de Guadalajara - Center for Economics and Administrative Sciences](http://www.cucea.udg.mx/), Mexico, 2010.
 
 Post Ph.D. work experience
 ======
@@ -26,7 +26,7 @@ Post Ph.D. work experience
   * University of Guelph. Dept. of Food, Ag. & Resource Economics.
 
 * 2019: Senior Economist.
-  * Central Bank of Mexico. Division of Economic Research.
+  * [Central Bank of Mexico](https://www.banxico.org.mx/indexen.html). Division of Economic Research.
 
 
 Professional experience in a map
