@@ -19,7 +19,7 @@ Research interests
 ======
 * Organizational Economics
 * Screening
-* Experimental Economics
+* Food and Agricultural Economics
 * Resource and Development Economics
 
 Education
