@@ -14,6 +14,7 @@ redirect_from:
 Current appointment
 ======
 * Assistant Professor, [University of Guelph](https://www.uoguelph.ca/) - [FARE](https://www.uoguelph.ca/fare/).
+* [ORCiD](https://orcid.org/0000-0001-9735-6801)
 
 Research interests
 ======
@@ -22,13 +23,14 @@ Research interests
 * Agricultural and Food Policy
 * Labour Economics
 
+
 Education
 ======
 * Ph.D. [Purdue University](https://www.purdue.edu/), IN, USA.
  
 Contact information
 ======
-José G. Nuño-Ledesma<br/>
+José G. Nuño<br/>
 J.D. MacLachlan Building<br/>
 50 Stone Road East, Office 307<br/>
 Guelph, Ontario, Canada N1G 2W1
