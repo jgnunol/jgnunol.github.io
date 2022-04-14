@@ -15,6 +15,7 @@ author_profile: true
 ---
 {% include base_path %}
 
+* [ORCiD](https://orcid.org/0000-0001-9735-6801).
 * [Google Scholar](https://scholar.google.ca/citations?user=udjj4tsAAAAJ&hl=en).
 * [RePEc/IDEAS](https://ideas.repec.org/e/pnu115.html).
 
