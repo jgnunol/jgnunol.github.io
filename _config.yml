@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "José Nuño-Ledesma"
   avatar           : "profile.png"
-  bio              : "email: jnuno[at]uoguelph[dot]ca"
+  bio              : "Assistant Professor. University of Guelph."
   location         : "Guelph, Canada"
   employer         : "University of Guelph"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/josenunol/"
+  orcid            : "http://orcid.org/0000-0001-9735-6801"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
