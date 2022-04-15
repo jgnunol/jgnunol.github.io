@@ -13,8 +13,8 @@ redirect_from:
 
 Current appointment
 ======
-* Assistant Professor, [University of Guelph](https://www.uoguelph.ca/) - [FARE](https://www.uoguelph.ca/fare/).
-* [ORCiD](https://orcid.org/0000-0001-9735-6801)
+* Assistant Professor of Food Industry Economics and Management. 
+* [University of Guelph](https://www.uoguelph.ca/) - [FARE](https://www.uoguelph.ca/fare/).
 
 Research interests
 ======
