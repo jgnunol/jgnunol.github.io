@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "José G. Nuño-Ledesma"
+title: "José G. Nuño"
 excerpt: "University of Guelph"
 header:
   overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
@@ -30,7 +30,7 @@ Education
  
 Contact information
 ======
-José G. Nuño<br/>
+José Nuño<br/>
 J.D. MacLachlan Building<br/>
 50 Stone Road East, Office 307<br/>
 Guelph, Ontario, Canada N1G 2W1
