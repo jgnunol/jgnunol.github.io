@@ -14,7 +14,7 @@ redirect_from:
 Current appointment
 ======
 * Assistant Professor of Food Industry Economics and Management. 
-* [University of Guelph](https://www.uoguelph.ca/) - [FARE](https://www.uoguelph.ca/fare/).
+* [University of Guelph](https://www.uoguelph.ca/) - Department of [Food, Agricultural, and Resource Economics](https://www.uoguelph.ca/fare/).
 
 Research interests
 ======
