@@ -17,7 +17,7 @@ redirect_from:
 Education
 ======
 * Ph.D., [Purdue University](https://www.purdue.edu/), 2018.
-* M.S., [University of Minnesota-Twin Cities](https://twin-cities.umn.edu/), 2014.
+* M.S., [University of Minnesota](https://twin-cities.umn.edu/), 2014.
 * Bachelor's degree, [Universidad de Guadalajara](http://www.cucea.udg.mx/), Mexico, 2010.
 
 Post Ph.D. work experience
