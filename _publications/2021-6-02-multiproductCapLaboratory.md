@@ -1,7 +1,7 @@
 ---
 title: "A Portion Cap Rule with Two Products: An Experimental Evaluation"
 collection: research
-type: progress
+type: published
 permalink: /research/2021-6-02-multiproductCapLaboratory
 excerpt: ''
 date: 2022-04-17
