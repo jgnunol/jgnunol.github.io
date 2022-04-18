@@ -1,14 +1,14 @@
 ---
-title: "An Experimental Evaluation of a Portion Cap Rule with a Two-Product Seller"
+title: "A Portion Cap Rule with Two Products: An Experimental Evaluation"
 collection: research
 type: progress
 permalink: /research/2021-6-02-multiproductCapLaboratory
 excerpt: ''
-date: 2021-02-24
+date: 2022-04-17
 venue: 
 paperurl:
 citation: 
 ---
 
-Portion cap rules have been proposed to regulate the consumption of foods and ingredients deemed unhealthy. Theoretical work suggests that, when bundling is used to price-discriminate, consumers are not necessarily affected by these measures, and some may even benefit. The claim assumes that the seller strictly adheres to perfect profit-maximizing strategies. I relax this premise in a controlled experiment where two-product sellers serve buyers with private preferences. Subjects can design and price their menus as they wish. The data largely corroborate the predicted theoretical impacts on consumer surplus, speaking to their robustness: one consumer segment prefers the capped environment.
+Portion cap rules	have been proposed to regulate the consumption of foods and ingredients deemed unhealthy. Challenging common intuition, previous theoretical work posits that, when the seller leverages bundling to price-discriminate, buyers are not necessarily affected and some may even benefit from a quantity restriction. I conduct an experiment designed to test this claim. In the laboratory, human subjects take the role of sellers and offer two products to automated buyers with private preferences. I manipulate the policy environment across treatments. The data largely corroborate the anticipated impacts on consumer surplus, speaking to their robustness. In particular, consumers with a low appreciation for the regulated good and a high valuation for the unrestricted item benefit from the cap rule.
 [Download the working paper here](http://jgnunol.github.io/files/multiproductCapLaboratory.pdf)
