@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "José Nuño"
+title: "Dr. José G. Nuño"
 excerpt: "Applied Economist - University of Guelph"
 header:
   overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
