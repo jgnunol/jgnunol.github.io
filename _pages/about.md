@@ -20,7 +20,6 @@ Research interests
 ======
 * Organizational Economics
 * Mechanism Design
-* Price Discrimination
 * Agricultural and Food Policy
 * Labour Economics
 
