@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. José G. Nuño-Ledesma"
+title: "José Nuño-Ledesma"
 excerpt: "Applied Economist - University of Guelph"
 header:
   overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
