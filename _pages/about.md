@@ -30,7 +30,7 @@ Education
  
 Contact information
 ======
-50 Stone Road East
+50 Stone Road East.<br/>
 J.D. MacLachlan Building<br/>
 Office 307<br/>
 Guelph, Ontario, Canada N1G 2W1
