@@ -5,7 +5,7 @@ type: published
 permalink: /research/2021-6-02-multiproductCapLaboratory
 excerpt: ''
 date: 2022-04-17
-venue: Canadian Journal of Agricultural Economics (Conditionally Accepted)
+venue: Canadian Journal of Agricultural Economics (Forthcoming)
 paperurl:
 ---
 
