@@ -16,14 +16,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D., [Purdue University](https://www.purdue.edu/), 2018.
-* M.S., [University of Minnesota](https://twin-cities.umn.edu/), 2014.
-* Bachelor's degree, [Universidad de Guadalajara](http://www.cucea.udg.mx/), Mexico, 2010.
+* Ph.D., Purdue University, 2018.
+* M.Sc., University of Minnesota, 2014.
+* Bachelor's degree, Universidad de Guadalajara, Mexico, 2010.
 
 Post Ph.D. work experience
 ======
-* 2020 - Current: [Assistant Professor](https://www.uoguelph.ca/oac/news/new-food-industry-economics-and-management-prof).
-  * University of Guelph. Dept. of Food, Ag. & Resource Economics.
+* 2020 - Current: Assistant Professor.
+  * Dept. of Food, Ag. & Resource Economics - University of Guelph, ON.
 
 * 2019: Senior Economist.
   * [Central Bank of Mexico](https://www.banxico.org.mx/indexen.html). Division of Economic Research.
