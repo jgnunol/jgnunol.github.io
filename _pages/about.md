@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "José Nuño-Ledesma"
-excerpt: "Applied Economist - University of Guelph"
+title: "Applied Economist"
+excerpt: "University of Guelph"
 header:
   overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
   caption: "Las Hilanderas - Velázquez"
