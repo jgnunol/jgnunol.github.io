@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Available in PDF format here.](https://jgnunol.github.io/files/CV.pdf)
+You can download my Curriculum Vitae in [PDF format by clicking here.](https://jgnunol.github.io/files/CV.pdf)
 
 Education
 ======
@@ -20,7 +20,7 @@ Education
 * M.Sc., University of Minnesota, 2014.
 * Bachelor's degree, Universidad de Guadalajara, Mexico, 2010.
 
-Post Ph.D. work experience
+Post-Ph.D. work experience
 ======
 * 2020 - Current: Assistant Professor.
   * Dept. of Food, Ag. & Resource Economics - University of Guelph, ON.
