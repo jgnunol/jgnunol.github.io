@@ -21,8 +21,6 @@ Research interests
 * Organizational Economics
 * Mechanism Design
 * Agricultural and Food Policy
-* Labour Economics
-
 
 Education
 ======
