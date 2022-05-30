@@ -3,7 +3,7 @@ title: "A Portion Cap Rule with Two Products: An Experimental Evaluation"
 collection: research
 type: published
 permalink: /research/2021-6-02-multiproductCapLaboratory
-excerpt: ''
+excerpt:
 date: 2022-05-29
 venue: Canadian Journal of Agricultural Economics
 ---
