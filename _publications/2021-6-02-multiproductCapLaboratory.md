@@ -6,7 +6,6 @@ permalink: /research/2021-6-02-multiproductCapLaboratory
 excerpt: ''
 date: 2022-05-29
 venue: Canadian Journal of Agricultural Economics
-paperurl:
 ---
 
 DOI: [10.1111/cjag.12308](https://doi.org/10.1111/cjag.12308)
