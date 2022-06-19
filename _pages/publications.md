@@ -43,7 +43,7 @@ You can find records of my work in the following links:
 With [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu) and [Joseph Balagtas](https://ag.purdue.edu/agecon/Pages/Profile.aspx?strAlias=balagtas).
 
 #### Leveraging relational contract theory to study the farmland rental market.
-With Gabriela Gabrel and [Brady J. Deaton, Jr.](https://www.uoguelph.ca/fare/bios/f_deaton.html).
+With Gabriela Gabrel and [Brady J. Deaton, Jr.](https://www.uoguelph.ca/fare/bios/f_deaton.html)
 
 #### Approximation in complex pricing mechanism.
 With [Jeffrey D. Michler](https://jeffmichler.com/), [Peter Slade](https://sites.google.com/site/sladepeterjoel/), and [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu).
