@@ -29,9 +29,8 @@ author_profile: true
 ## Ongoing projects
 -------
 
-**Nonlinear pricing under regulation: Comparing cap rules and taxes in the laboratory**. 
+**Taxes versus Portion Cap Rules for Sugar-Sweetened Drinks Regulation: A Nonlinear Pricing Approach**. 
 - With [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu) and [Joseph Balagtas](https://ag.purdue.edu/agecon/Pages/Profile.aspx?strAlias=balagtas).
-- *Under review.*
 	
 **Leveraging relational contract theory to study the farmland rental market**. 
 - With Gabriela Gabrel and [Brady J. Deaton, Jr.](https://www.uoguelph.ca/fare/bios/f_deaton.html)
