@@ -29,6 +29,7 @@ Education
  
 Contact information
 ======
+jnuno [at] uoguelph [dot] ca
 50 Stone Road East.<br/>
 J.D. MacLachlan Building<br/>
 Office 307<br/>
