@@ -20,8 +20,8 @@ Research interests
 ======
 * Organizational Economics
 * Mechanism Design
-* Development Economics
 * Agricultural and Food Policy
+* Labor Economics
 
 Education
 ======
