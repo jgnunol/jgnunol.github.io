@@ -26,23 +26,18 @@ author_profile: true
 {% endfor %}
 
 
-## Ongoing projects
+## Selected Ongoing Projects
 -------
 
 **Taxes versus Portion Cap Rules for Sugar-Sweetened Drinks Regulation: A Nonlinear Pricing Approach**. 
 - With [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu) and [Joseph Balagtas](https://ag.purdue.edu/agecon/Pages/Profile.aspx?strAlias=balagtas).
 	
-**Leveraging relational contract theory to study the farmland rental market**. 
-- With Gabriela Gabrel and [Brady J. Deaton, Jr.](https://www.uoguelph.ca/fare/bios/f_deaton.html)
-	
 **Approximation in complex pricing mechanisms**. 
 - With [Jeffrey D. Michler](https://jeffmichler.com/), [Peter Slade](https://sites.google.com/site/sladepeterjoel/), and [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu).
 	
-**Worker-workplace matching in the Mexican labor market**. 
+**Workers, Workplaces, Sorting, and Wage Dispersion in Mexico**. 
 - With [Jorge Pérez-Pérez](https://jorgeperezperez.com/).
 	
-**The effects of taxing food away from home on household's food consumption**. 
-- With [Bhagyashree Katare](https://ag.purdue.edu/department/agecon/directory.html#/bkatare).
 
 ## Links
 -------
