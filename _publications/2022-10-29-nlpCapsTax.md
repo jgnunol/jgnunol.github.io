@@ -1,7 +1,7 @@
 ---
 title: "Nonlinear Pricing Uner Regulation: Comparing Cap Rules and Taxes in the Laboratory"
 collection: research
-type: published
+type: progress
 permalink: /research/2022-10-29-nlpCapsTax
 excerpt:
 date: 2022-10-29
