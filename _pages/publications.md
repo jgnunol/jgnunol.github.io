@@ -35,7 +35,7 @@ author_profile: true
 {% endfor %}
 
 
-## Selected Ongoing Projects
+## Selected Work in Progress
 -------
 
 **Taxes versus Portion Cap Rules for Sugar-Sweetened Drinks Regulation: A Nonlinear Pricing Approach**. 
