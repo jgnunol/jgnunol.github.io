@@ -25,6 +25,15 @@ author_profile: true
 	{% endif%}
 {% endfor %}
 
+## Working Papers
+-------
+
+{% for post in site.publications reversed %}
+	{% if post.type == 'progress' %}
+		{% include archive-single.html %}
+	{% endif%}
+{% endfor %}
+
 
 ## Selected Ongoing Projects
 -------
@@ -34,9 +43,6 @@ author_profile: true
 	
 **Approximation in complex pricing mechanisms**. 
 - With [Jeffrey D. Michler](https://jeffmichler.com/), [Peter Slade](https://sites.google.com/site/sladepeterjoel/), and [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu).
-	
-**Workers, Workplaces, Sorting, and Wage Dispersion in Mexico**. 
-- With [Jorge Pérez-Pérez](https://jorgeperezperez.com/).
 	
 
 ## Links
