@@ -38,10 +38,10 @@ author_profile: true
 ## Selected Work in Progress
 -------
 
-**Taxing Sugar-Sweetened Beverages: A Nonlinear Pricing Approach**. *Revise and Resubmit*
+**Taxing Sugar-Sweetened Beverages: A Nonlinear Pricing Approach**. *Revise and Resubmit*.
 - With [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu) and [Joseph Balagtas](https://ag.purdue.edu/agecon/Pages/Profile.aspx?strAlias=balagtas). 
 
-**Workers, Workplaces, Sorting, and Wage Dispersion in Mexico**. *Under Review* 
+**Workers, Workplaces, Sorting, and Wage Dispersion in Mexico**. *Under Review*.
 - With [Jorge Pérez Pérez](https://jorgeperezperez.com/). 
 	
 **Approximation in complex pricing mechanisms**. 
