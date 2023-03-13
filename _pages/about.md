@@ -18,9 +18,9 @@ Current appointment
 
 Research interests
 ======
-* Organizational Economics
-* Pricing and Mechanism Design
-* Agricultural Economics
+* Contract Theory
+* Mechanism Design
+* Pricing
 * Experimental Economics
 * Labor Economics
 
