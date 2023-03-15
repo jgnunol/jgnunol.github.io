@@ -18,11 +18,11 @@ Current appointment
 
 Research interests
 ======
-* Contract Theory
 * Mechanism Design
+* Contract Theory
 * Pricing
-* Experimental Economics
 * Labor Economics
+* Experimental Economics
 
 Education
 ======
