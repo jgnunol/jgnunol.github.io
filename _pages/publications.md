@@ -38,15 +38,15 @@ author_profile: true
 ## Selected Work in Progress
 -------
 
-**Taxing Sugar-Sweetened Beverages: A Nonlinear Pricing Approach**. *Revise and Resubmit*.
-- With [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu) and [Joseph Balagtas](https://ag.purdue.edu/agecon/Pages/Profile.aspx?strAlias=balagtas). 
-
 **Workers, Workplaces, Sorting, and Wage Dispersion in Mexico**. *Under Review*.
 - With [Jorge Pérez Pérez](https://jorgeperezperez.com/). 
-	
+
 **Approximation in complex pricing mechanisms**. 
 - With [Jeffrey D. Michler](https://jeffmichler.com/), [Peter Slade](https://sites.google.com/site/sladepeterjoel/), and [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu).
-	
+
+**Soda Taxes Versus Cup Sizes: An Experiment Comparing Two Policies for Reducing Sugary Drink Consumption Under Price Discrimination**.
+- With [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu) and [Joseph Balagtas](https://ag.purdue.edu/department/agecon/directory.html#/balagtas). 
+
 
 ## Links
 -------
