@@ -41,11 +41,13 @@ author_profile: true
 **Workers, Workplaces, Sorting, and Wage Dispersion in Mexico**. *Under Review*.
 - With [Jorge Pérez Pérez](https://jorgeperezperez.com/). 
 
+
+**Soda Taxes Versus Cup Sizes: An Experiment Comparing Two Policies for Reducing Sugary Drink Consumption Under Price Discrimination**. *Under Review*.
+- With [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu) and [Joseph Balagtas](https://ag.purdue.edu/department/agecon/directory.html#/balagtas). 
+
 **Approximation in complex pricing mechanisms**. 
 - With [Jeffrey D. Michler](https://jeffmichler.com/), [Peter Slade](https://sites.google.com/site/sladepeterjoel/), and [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu).
 
-**Soda Taxes Versus Cup Sizes: An Experiment Comparing Two Policies for Reducing Sugary Drink Consumption Under Price Discrimination**.
-- With [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu) and [Joseph Balagtas](https://ag.purdue.edu/department/agecon/directory.html#/balagtas). 
 
 
 
