@@ -16,12 +16,11 @@ Current appointment
 * Assistant Professor of Food Industry Economics and Management. 
 * [University of Guelph](https://www.uoguelph.ca/) - Department of [Food, Agricultural, and Resource Economics](https://www.uoguelph.ca/fare/).
 
-Research interests
+Main Research interests
 ======
 * Mechanism Design
 * Contract Theory
 * Pricing
-* Labor Economics
 * Experimental Economics
 
 Education
