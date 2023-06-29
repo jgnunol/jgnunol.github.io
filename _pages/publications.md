@@ -38,7 +38,7 @@ author_profile: true
 ## Selected Work in Progress
 -------
 
-**Workers, Workplaces, Sorting, and Wage Dispersion in Mexico**. *Under Review*.
+**The Contribution of Workers, Workplaces, and Sorting to Wage Inequality in Mexico.**. *Revise and Resubmit*.
 - With [Jorge Pérez Pérez](https://jorgeperezperez.com/). 
 
 **Matching and City Size Wage Gaps Under the Shadow of Informality: Evidence from Mexico**. *Under Review*.
