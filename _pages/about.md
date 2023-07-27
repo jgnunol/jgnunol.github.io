@@ -18,10 +18,10 @@ Current appointment
 
 Main Research interests
 ======
-* Mechanism Design
 * Contract Theory
-* Pricing
+* Mechanism Design
 * Organizational Economics
+* Pricing
 
 Education
 ======
