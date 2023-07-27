@@ -21,7 +21,7 @@ Main Research interests
 * Mechanism Design
 * Contract Theory
 * Pricing
-* Experimental Economics
+* Organizational Economics
 
 Education
 ======
