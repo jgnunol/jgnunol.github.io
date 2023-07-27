@@ -3,7 +3,7 @@ layout: archive
 title: "Research"
 excerpt: "Published and Ongoing"
 header:
-  overlay_image: https://jgnunol.github.io/images/mateo2.jpg
+  overlay_image: https://jgnunol.github.io/images/mateo.jpg
   caption: "Vocazione di san Matteo - Caravaggio"
 permalink: /publications/
 redirect_from: 
