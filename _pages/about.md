@@ -13,8 +13,7 @@ redirect_from:
 
 Current appointment
 ======
-<span style="font-size: 11px;">
-Assistant Professor of Food Industry Economics and Management. 
+<span style="font-size: 8px;">Assistant Professor of Food Industry Economics and Management. 
 </span>
 [University of Guelph](https://www.uoguelph.ca/). Department of [Food, Agricultural, and Resource Economics](https://www.uoguelph.ca/fare/).
 
