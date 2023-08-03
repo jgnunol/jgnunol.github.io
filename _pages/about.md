@@ -33,7 +33,7 @@ Currently working on
 
 Education
 ======
-* Ph.D. [Purdue University](https://www.purdue.edu/), IN, USA.
+* Ph.D. Agricultural Economics. [Purdue University](https://www.purdue.edu/), IN, USA.
  
 Contact information
 ======
