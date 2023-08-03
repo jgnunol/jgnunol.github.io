@@ -18,7 +18,7 @@ Current appointment
 
 Research interests
 ======
-Broadly, I conduct research within Agricultural Economics with a focus on pricing and labour relations. My fields of interest include:
+Broadly, I conduct research within Agricultural Economics with a focus on Pricing and Labour Relations. My fields of interest include:
 * Retail Pricing and Regulatory Policy
 * Labour Economics
 * Contract Theory
