@@ -11,6 +11,9 @@ redirect_from:
   - /about.html
 ---
 
+<span style="font-size: 17px;">Broadly, I focus on pricing and labour relations in the broader context of agricultural economics. My research agenda blends traditional and emerging areas within agricultural economics and often intersects with other subfields of economics such as development; health and nutrition policy; market design; resource economics, and trade.</span>
+
+
 Current appointment
 ======
 <span style="font-size: 17px;">Assistant Professor of Food Industry Economics and Management. </span>
@@ -22,8 +25,6 @@ Research interests
 * <span style="font-size: 17px;">Retail Pricing and Regulatory Policy</span>
 * <span style="font-size: 17px;">Labour Economics</span>
 * <span style="font-size: 17px;">Contract Theory</span>
-
-<span style="font-size: 17px;">Boadly, I focus on pricing and labour relations in the broader context of agricultural economics. My research agenda blends traditional and emerging areas within agricultural economics and often intersects with other subfields of economics such as development; health and nutrition policy; market design; resource economics, and trade.</span>
 
 Currently working on
 ======
