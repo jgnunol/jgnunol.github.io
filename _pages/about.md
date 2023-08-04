@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 18px;">Broadly, I focus on pricing and labour relations in the broader context of agricultural economics. My research agenda blends traditional and emerging areas within agricultural economics and often intersects with other subfields of economics such as development; health and nutrition policy; market design; resource economics, and trade.</span>
+<span style="font-size: 18px;">Broadly, I focus on pricing and labour relations in the broader context of agricultural economics. My research agenda blends traditional and emerging areas within agricultural economics and often intersects with other subfields of economics such as development; health and nutrition policy; market design; natural resource management, and trade.</span>
 
 
 Current appointment
