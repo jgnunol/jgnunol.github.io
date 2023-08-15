@@ -22,9 +22,10 @@ Current appointment
 
 Research interests
 ======
-* <span style="font-size: 17px;">Retail Pricing and Regulatory Policy</span>
-* <span style="font-size: 17px;">Labour Economics</span>
+* <span style="font-size: 17px;">Retail Pricing</span>
 * <span style="font-size: 17px;">Contract Theory</span>
+* <span style="font-size: 17px;">Mechanism Design</span>
+* <span style="font-size: 17px;">Labour Economics</span>
 
 Currently working on
 ======
@@ -32,7 +33,6 @@ Currently working on
 * <span style="font-size: 17px;">[City-size wage gaps and assortative matching in Mexico.](https://jorgeperezperez.com/files/PerezMelendezNuno_AKMCitySize.pdf) _Under Review_.</span>
 * <span style="font-size: 17px;">[The contribution of firms, workers, and sorting to wage variance in Mexico.](https://alianzaefi.com/download/the-contribution-of-workers-workplaces-and-sorting-to-wage-inequality-in-mexico/) _Revisions requested_.</span>
 * <span style="font-size: 17px;">[Comparing portion cap rules and taxes as regulatory alternatives.](https://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/%7BCC69ACEB-5595-C9BF-ED67-55A91C7E7BDD%7D.pdf)</span>
-* <span style="font-size: 17px;">The environmental implications of landlord heterogeneity in the farmland rental market.</span>
 * <span style="font-size: 17px;">How do multi-product sellers approximate complex pricing mechanisms.</span>
 
 Education
