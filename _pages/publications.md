@@ -41,7 +41,7 @@ author_profile: true
 **The Contribution of Workers, Workplaces, and Sorting to Wage Inequality in Mexico.** *Revise and Resubmit*.
 - With [Jorge Pérez Pérez](https://jorgeperezperez.com/). 
 
-**Matching and City Size Wage Gaps Under the Shadow of Informality: Evidence from Mexico**. *Under Review*.
+**Matching and City Size Wage Gaps Under the Shadow of Informality: Evidence from Mexico**. *Reject and Resubmit*.
 - With [Jorge Pérez Pérez](https://jorgeperezperez.com/) and Jorge Mélendez Flores. 
 
 **Soda Taxes Versus Cup Sizes: An Experiment Comparing Two Policies for Reducing Sugary Drink Consumption Under Price Discrimination**.
