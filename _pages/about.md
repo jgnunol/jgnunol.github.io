@@ -32,7 +32,7 @@ Currently working on
 
 * <span style="font-size: 17px;">[The contribution of firms, workers, and sorting to wage variance in Mexico.](https://alianzaefi.com/download/the-contribution-of-workers-workplaces-and-sorting-to-wage-inequality-in-mexico/) _Revise and Resubmit_.</span>
 * <span style="font-size: 17px;">[City-size wage gaps and assortative matching in Mexico.](https://jorgeperezperez.com/files/PerezMelendezNuno_AKMCitySize.pdf) _Reject and Resubmit_.</span>
-* <span style="font-size: 17px;">[Comparing portion cap rules and taxes as regulatory alternatives.](https://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/%7BCC69ACEB-5595-C9BF-ED67-55A91C7E7BDD%7D.pdf)</span>
+* <span style="font-size: 17px;">[Comparing portion cap rules and taxes as regulatory alternatives.](https://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/%7BCC69ACEB-5595-C9BF-ED67-55A91C7E7BDD%7D.pdf) _Under Review_.</span>
 * <span style="font-size: 17px;">How do multi-product sellers approximate complex pricing mechanisms.</span>
 
 Education
