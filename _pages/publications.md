@@ -44,7 +44,7 @@ author_profile: true
 **Matching and City Size Wage Gaps Under the Shadow of Informality: Evidence from Mexico**. *Reject and Resubmit*.
 - With [Jorge Pérez Pérez](https://jorgeperezperez.com/) and Jorge Mélendez Flores. 
 
-**Soda Taxes Versus Cup Sizes: An Experiment Comparing Two Policies for Reducing Sugary Drink Consumption Under Price Discrimination**.
+**Taxes Versus Quantity Caps: An Experiment Comparing Two Policies for Regulating Consumption Under Price Discrimination.**. *Under Review*.
 - With [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu) and [Joseph Balagtas](https://ag.purdue.edu/department/agecon/directory.html#/balagtas). 
 
 **Approximation in complex pricing mechanisms**. 
