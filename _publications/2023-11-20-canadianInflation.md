@@ -8,7 +8,7 @@ date: 2023-11-20
 venue: Canadian Journal of Agricultural Economics
 ---
 
-DOI: [10.1111/cjag.12341](https://doi.org/10.1111/cjag.12341). With Mike von Massow
+With Mike von Massow. DOI: [10.1111/cjag.12341](https://doi.org/10.1111/cjag.12341).
 Coverage: [BMO Sustainability Leaders podcast](https://sustainabilityleaders.bmo.com/en/news-insights/sustainability-leaders/research-strategy/canada-inflation-moving-in-the-right-direction/)
 
 <a href="https://www.scimagojr.com/journalsearch.php?q=65131&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=65131" alt="SCImago Journal &amp; Country Rank"  /></a>
