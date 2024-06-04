@@ -23,8 +23,8 @@ Current appointment
 Research interests
 ======
 * <span style="font-size: 17px;">Retail Pricing</span>
+* <span style="font-size: 17px;">Industrial Organization</span>
 * <span style="font-size: 17px;">Contract Theory</span>
-* <span style="font-size: 17px;">Mechanism Design</span>
 * <span style="font-size: 17px;">Labour Economics</span>
 
 Currently working on
