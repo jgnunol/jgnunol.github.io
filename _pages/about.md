@@ -30,7 +30,7 @@ Research interests
 Currently working on
 ======
 
-* <span style="font-size: 17px;">Workers, Workplaces, Sorting, and Wage Dispersion in Mexico [Working Paper](https://www.banxico.org.mx/DIBM/web/documento/visor.html?clave=2024-06&locale=en).
+* <span style="font-size: 17px;">Workers, Workplaces, Sorting, and Wage Dispersion in Mexico. [Working Paper](https://www.banxico.org.mx/DIBM/web/documento/visor.html?clave=2024-06&locale=en)
   - _Conditionally Accepted - Economía LACEA Journal_</span>
 * <span style="font-size: 17px;">Matching and Local Labor Market Size in Mexico. [Working Paper](https://jorgeperezperez.com/files/PerezMelendezNuno_AKMCitySize.pdf)
   - _Reject and Resubmit - Regional Science and Urban Economics_.</span>
