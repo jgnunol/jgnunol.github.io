@@ -34,8 +34,9 @@ Currently working on
   - _Conditionally Accepted - [Economía LACEA Journal](https://economia.lse.ac.uk/)_</span>
 * <span style="font-size: 17px;">[Matching and Local Labor Market Size in Mexico.](https://jorgeperezperez.com/files/PerezMelendezNuno_AKMCitySize.pdf)
   - _Reject and Resubmit - [Regional Science and Urban Economics](https://www.sciencedirect.com/journal/regional-science-and-urban-economics)_.</span>
-* <span style="font-size: 17px;">[Comparing portion cap rules and taxes as regulatory alternatives.]([https://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/%7BCC69ACEB-5595-C9BF-ED67-55A91C7E7BDD%7D.pdf](https://www.banxico.org.mx/DIBM/web/documento/visor.html?clave=2022-10&locale=en))
-  - _Theory Section Published - [American Journal of Agricultural Economics](https://doi.org/10.1111/ajae.12416). Experiment Section - Submitted_.</span>
+* <span style="font-size: 17px;">[Comparing portion cap rules and taxes as regulatory alternatives.](https://www.banxico.org.mx/DIBM/web/documento/visor.html?clave=2022-10&locale=en)
+  - _Theory Section Published - [American Journal of Agricultural Economics](https://doi.org/10.1111/ajae.12416)_.
+  - _Experiment Section - Submitted_.</span>
 * <span style="font-size: 17px;">How do multi-product sellers approximate complex pricing mechanisms.</span>
 
 Education
