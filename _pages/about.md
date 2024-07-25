@@ -25,12 +25,12 @@ Research interests
 * <span style="font-size: 17px;">Retail Pricing</span>
 * <span style="font-size: 17px;">Industrial Organization</span>
 * <span style="font-size: 17px;">Contract Theory</span>
-* <span style="font-size: 17px;">Labour Economics</span>
+* <span style="font-size: 17px;">Labor Economics</span>
 
 Currently working on
 ======
 
-* <span style="font-size: 17px;">Workers, Workplaces, Sorting, and Wage Dispersion in Mexico. _Conditionally Accepted_ - [Economía LACEA Journal](https://economia.lse.ac.uk/).</span>
+* <span style="font-size: 17px;">[Workers, Workplaces, Sorting, and Wage Dispersion in Mexico](https://www.banxico.org.mx/DIBM/web/documento/visor.html?clave=2024-06&locale=es_MX). _Conditionally Accepted_ - [Economía LACEA Journal](https://economia.lse.ac.uk/).</span>
 * <span style="font-size: 17px;">[City-size wage gaps and assortative matching in Mexico.](https://jorgeperezperez.com/files/PerezMelendezNuno_AKMCitySize.pdf) _Reject and Resubmit_.</span>
 * <span style="font-size: 17px;">[Comparing portion cap rules and taxes as regulatory alternatives.](https://www.banxico.org.mx/publicaciones-y-prensa/documentos-de-investigacion-del-banco-de-mexico/%7BCC69ACEB-5595-C9BF-ED67-55A91C7E7BDD%7D.pdf) _Submitted_.</span>
 * <span style="font-size: 17px;">How do multi-product sellers approximate complex pricing mechanisms.</span>
