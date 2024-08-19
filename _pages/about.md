@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Applied Economist"
-excerpt: "University of Guelph"
+title: "Assistant Professor"
+excerpt: "Food Industry Economics - University of Guelph"
 header:
   overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
   caption: "Las Hilanderas - Velázquez"
@@ -16,9 +16,8 @@ redirect_from:
 
 Current appointment
 ======
-<span style="font-size: 17px;">Assistant Professor of Food Industry Economics and Management. </span>
+<span style="font-size: 17px;">Assistant Professor of Food Industry Economics and Management. [University of Guelph](https://www.uoguelph.ca/). Department of [Food, Agricultural, and Resource Economics](https://www.uoguelph.ca/fare/).</span>
 
-<span style="font-size: 17px;">[University of Guelph](https://www.uoguelph.ca/). Department of [Food, Agricultural, and Resource Economics](https://www.uoguelph.ca/fare/).</span>
 
 Research interests
 ======
