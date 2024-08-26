@@ -38,10 +38,10 @@ author_profile: true
 ## Selected Work in Progress
 -------
 
-**Matching and City Size Wage Gaps Under the Shadow of Informality: Evidence from Mexico**. *Reject and Resubmit*.
+**Matching and Local Labor Market Size in Mexico**. *Reject and Resubmit*.
 - With [Jorge Pérez Pérez](https://jorgeperezperez.com/) and Jorge Mélendez Flores. 
 
-**Taxes Versus Quantity Caps: An Experiment Comparing Two Policies for Regulating Consumption Under Price Discrimination.** *Revise and Resubmit*.
+**Soda Taxes versus Cup Sizes when Retailers Segment Demand: An Experiment.** *Revise and Resubmit*.
 - With [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu) and [Joseph Balagtas](https://ag.purdue.edu/department/agecon/directory.html#/balagtas). 
 
 **Approximation in complex pricing mechanisms**. 
