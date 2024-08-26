@@ -36,7 +36,7 @@ Currently working on
   - <span style="font-size: 17px;">_Theory Section [Published](https://doi.org/10.1111/ajae.12416) - American Journal of Agricultural Economics_.</span>
   - <span style="font-size: 17px;">_Empirical Section -Revise and Resubmit_.</span>
 * <span style="font-size: 17px;">Incentive Alignment and Effort Provision in Multitask Contracts. [Working Paper](https://ageconsearch.umn.edu/record/304302)</span>
-  - <span style="font-size: 17px;">_Submitted_</span>
+  - <span style="font-size: 17px;">Under Review</span>
 * <span style="font-size: 17px;">How do multi-product sellers approximate complex pricing mechanisms.</span>
 
 Education
