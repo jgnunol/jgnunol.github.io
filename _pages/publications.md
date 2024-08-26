@@ -35,21 +35,6 @@ author_profile: true
 {% endfor %}
 
 
-## Selected Work in Progress
--------
-
-**Matching and Local Labor Market Size in Mexico**. *Reject and Resubmit*.
-- With [Jorge Pérez Pérez](https://jorgeperezperez.com/) and Jorge Mélendez Flores. 
-
-**Soda Taxes versus Cup Sizes when Retailers Segment Demand: An Experiment.** *Revise and Resubmit*.
-- With [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu) and [Joseph Balagtas](https://ag.purdue.edu/department/agecon/directory.html#/balagtas). 
-
-**Approximation in complex pricing mechanisms**. 
-- With [Jeffrey D. Michler](https://jeffmichler.com/), [Peter Slade](https://sites.google.com/site/sladepeterjoel/), and [Steven Wu](https://ag.purdue.edu/agecon/Pages/profile.aspx?strAlias=sywu).
-
-
-
-
 ## Links
 -------
 
