@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Assistant Professor"
+title: ""
 excerpt: "Food Industry Economics - University of Guelph"
 header:
   overlay_image: https://jgnunol.github.io/images/hilanderas.jpg
