@@ -37,6 +37,7 @@ Currently working on
   - <span style="font-size: 17px;">_Theory Section [Published](https://doi.org/10.1111/ajae.12416) - American Journal of Agricultural Economics_.</span>
   - <span style="font-size: 17px;">_Empirical Section -Revise and Resubmit_.</span>
 * <span style="font-size: 17px;">How do multi-product sellers approximate complex pricing mechanisms.</span>
+* <span style="font-size: 17px;">The relationship between informal agreements and sustainable practices in farmland rentals.</span>
 
 Education
 ======
