@@ -29,8 +29,6 @@ Research interests
 
 Currently working on
 ======
-* <span style="font-size: 17px;">Incentive Alignment and Effort Provision in Multitask Contracts. [Working Paper](https://ageconsearch.umn.edu/record/304302)</span>
-  - <span style="font-size: 17px;">_Revise and Resubmit_</span>
 * <span style="font-size: 17px;">Matching and Local Labor Market Size in Mexico. [Working Paper](https://jorgeperezperez.com/files/PerezMelendezNuno_AKMCitySize.pdf)</span>
   - <span style="font-size: 17px;">_Reject and Resubmit_.</span>
 * <span style="font-size: 17px;">Comparing portion cap rules and taxes as regulatory alternatives. [Working Paper](https://www.banxico.org.mx/DIBM/web/documento/visor.html?clave=2022-10&locale=en)</span>
