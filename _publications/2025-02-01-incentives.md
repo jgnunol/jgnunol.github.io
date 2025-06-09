@@ -8,7 +8,7 @@ date: 2025-02-01
 venue: Journal of Agricultural and Food Industrial Organization 
 ---
 
-[DOI: 10.1515/jafio-2024-0042](https://doi.org/10.1515/jafio-2024-0042) [Working Paper version:]([https://www.banxico.org.mx/DIBM/web/documento/visor.html?clave=2024-06&locale=en](https://ageconsearch.umn.edu/record/304302). 
+[DOI: 10.1515/jafio-2024-0042](https://doi.org/10.1515/jafio-2024-0042) [Working Paper version.](https://ageconsearch.umn.edu/record/304302). 
 
 <a href="https://www.scimagojr.com/journalsearch.php?q=72154&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=72154" alt="SCImago Journal &amp; Country Rank"  /></a>
 
