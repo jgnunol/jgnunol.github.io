@@ -22,6 +22,7 @@ Current appointment
 
 Research interests
 ======
+* <span style="font-size: 17px;">Food Policy</span>
 * <span style="font-size: 17px;">Retail Pricing</span>
 * <span style="font-size: 17px;">Industrial Organization</span>
 * <span style="font-size: 17px;">Contract Theory</span>
