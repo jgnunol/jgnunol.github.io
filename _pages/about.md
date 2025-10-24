@@ -34,6 +34,8 @@ Currently working on
   - <span style="font-size: 17px;">_Revise and Resubmit (Oct 2025)_.</span> - _Regional Science and Urban Economics_.
 * <span style="font-size: 17px;">The relationship between informal agreements and sustainable practices in farmland rentals.</span>
   - <span style="font-size: 17px;">_Under revision (June 2025)_.</span> - _Canadian Journal of Agricultural Economics_.
+* <span style="font-size: 17px;">The effect of restricting volume discounts in food retailing</span>
+  - <span style="font-size: 17px;">_Under revision (October 2025)_.</span> - _American Journal of Agricultural Economics_.
 * <span style="font-size: 17px;">How do multi-product sellers approximate complex pricing mechanisms.</span>
 * <span style="font-size: 17px;">The impacts of trade tariffs, disease, and inter-provincial barriers on Ontario's beef industry.</span>
 * <span style="font-size: 17px;">The impacts of trade tariffs on Ontario's pork industry.</span>
