@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 18px;">My research focuses on pricing and labour relations in the broader context of agricultural economics. My work often speaks to other subfields of economics such as development; food and nutrition policy; retail pricing; natural resource management, and trade.</span>
+<span style="font-size: 18px;">I study firm strategy and supply chain resilience in the broader context of agricultural and food policy.</span>
 
 
 Current appointment
