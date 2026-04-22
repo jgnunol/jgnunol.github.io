@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 18px;">I study firm strategy and supply chain resilience in the broader context of agricultural and food policy.</span>
+<span style="font-size: 18px;">I study firm strategy and supply chain resilience in the broader context of food, nutrition, and agricultural policy.</span>
 
 
 Current appointment
@@ -26,14 +26,14 @@ Research interests
 * <span style="font-size: 17px;">Retail Pricing</span>
 * <span style="font-size: 17px;">Industrial Organization</span>
 * <span style="font-size: 17px;">Contract Theory</span>
-* <span style="font-size: 17px;">Labor Economics</span>
+* <span style="font-size: 17px;">Labour Economics</span>
 
 Currently working on
 ======
 * <span style="font-size: 17px;">Matching and Local Labor Market Size in Mexico. [Working Paper](https://jorgeperezperez.com/files/PerezMelendezNuno_AKMCitySize.pdf)</span>
   - <span style="font-size: 17px;">_Revisions Requested (Oct 2025)_.</span> - _Regional Science and Urban Economics_.
 * <span style="font-size: 17px;">The effect of restricting volume discounts in food retailing</span>
-  - <span style="font-size: 17px;">_Submitted (Feburary 2026)_.</span>
+  - <span style="font-size: 17px;">Under Review (Feburary 2026)_.</span>
 * <span style="font-size: 17px;">How do multi-product sellers approximate complex pricing mechanisms.</span>
 * <span style="font-size: 17px;">Resilience of Ontario's beef industry.</span>
 
