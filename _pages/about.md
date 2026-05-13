@@ -31,9 +31,9 @@ Research interests
 Currently working on
 ======
 * <span style="font-size: 17px;">Matching and Local Labor Market Size in Mexico. [Working Paper](https://jorgeperezperez.com/files/PerezMelendezNuno_AKMCitySize.pdf)</span>
-  - <span style="font-size: 17px;">_Revisions Requested (Oct 2025)_.</span> - _Regional Science and Urban Economics_.
+  - <span style="font-size: 17px;">_Revisions Requested_.</span> - _Regional Science and Urban Economics_.
 * <span style="font-size: 17px;">The effect of restricting volume discounts in food retailing</span>
-  - <span style="font-size: 17px;">Under Review (Feburary 2026)_.</span>
+  - <span style="font-size: 17px;">Under Review - _European Review of Agricultural Economics_.</span>
 * <span style="font-size: 17px;">How do multi-product sellers approximate complex pricing mechanisms.</span>
 * <span style="font-size: 17px;">Resilience of Ontario's beef industry.</span>
 
