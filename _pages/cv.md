@@ -22,7 +22,10 @@ Education
 
 Post-Ph.D. work experience
 ======
-* 2020 - Current: Assistant Professor.
+* 2026 - Current: Associate Professor.
+  * Dept. of Food, Ag. & Resource Economics - University of Guelph, ON.
+    
+* 2020 - 2026: Assistant Professor.
   * Dept. of Food, Ag. & Resource Economics - University of Guelph, ON.
 
 * 2019: Senior Economist.
