@@ -30,7 +30,7 @@ Research interests
 Currently working on
 ======
 * <span style="font-size: 17px;">Matching and Local Labor Market Size in Mexico. [Working Paper](https://jorgeperezperez.com/files/PerezMelendezNuno_AKMCitySize.pdf)</span>
-  - <span style="font-size: 17px;">_Revisions Requested_.</span>.
+  - <span style="font-size: 17px;">_Revisions Requested_.</span>
 * <span style="font-size: 17px;">Comparing Vulnerabilities in Ontario's Beef Supply Chain</span>
   - <span style="font-size: 17px;">_Under Review_.</span>
 * <span style="font-size: 17px;">How do multi-product sellers approximate complex pricing mechanisms.</span>
