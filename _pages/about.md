@@ -11,31 +11,29 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 18px;">I study firm strategy and supply chain resilience in the broader context of food, nutrition, and agricultural policy.</span>
+<span style="font-size: 18px;">I study how food firms price, how policy regulates them, and how supply chains stay resilient.</span>
 
 
 Current appointment
 ======
-<span style="font-size: 17px;">Assistant Professor of Food Industry Economics and Management.</span>
+<span style="font-size: 17px;">Associate Professor.</span>
 * <span style="font-size: 17px;">[University of Guelph](https://www.uoguelph.ca/). Department of [Food, Agricultural, and Resource Economics](https://www.uoguelph.ca/fare/).</span>
 
 
 Research interests
 ======
-* <span style="font-size: 17px;">Food Policy</span>
-* <span style="font-size: 17px;">Retail Pricing</span>
 * <span style="font-size: 17px;">Industrial Organization</span>
-* <span style="font-size: 17px;">Contract Theory</span>
-* <span style="font-size: 17px;">Labour Economics</span>
+* <span style="font-size: 17px;">Retail Pricing</span>
+* <span style="font-size: 17px;">Food Policy</span>
+* <span style="font-size: 17px;">Agricultural Economics</span>
 
 Currently working on
 ======
 * <span style="font-size: 17px;">Matching and Local Labor Market Size in Mexico. [Working Paper](https://jorgeperezperez.com/files/PerezMelendezNuno_AKMCitySize.pdf)</span>
-  - <span style="font-size: 17px;">_Revisions Requested_.</span> - _Regional Science and Urban Economics_.
-* <span style="font-size: 17px;">The effect of restricting volume discounts in food retailing</span>
-  - <span style="font-size: 17px;">Under Review - _European Review of Agricultural Economics_.</span>
+  - <span style="font-size: 17px;">_Revisions Requested_.</span>.
+* <span style="font-size: 17px;">Comparing Vulnerabilities in Ontario's Beef Supply Chain</span>
+  - <span style="font-size: 17px;">_Under Review_.</span>
 * <span style="font-size: 17px;">How do multi-product sellers approximate complex pricing mechanisms.</span>
-* <span style="font-size: 17px;">Resilience of Ontario's beef industry.</span>
 
 Education
 ======
