@@ -11,12 +11,12 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 18px;">I study how food firms price, how policy regulates them, and how supply chains stay resilient.</span>
+<span style="font-size: 18px;">I study food firm's pricing strategies; food supply chain resilience, and agri-food policy.</span>
 
 
 Current appointment
 ======
-<span style="font-size: 17px;">Associate Professor.</span>
+<span style="font-size: 17px;">Associate Professor of Food Industry Economics and Management.</span>
 * <span style="font-size: 17px;">[University of Guelph](https://www.uoguelph.ca/). Department of [Food, Agricultural, and Resource Economics](https://www.uoguelph.ca/fare/).</span>
 
 
@@ -29,11 +29,12 @@ Research interests
 
 Currently working on
 ======
+* <span style="font-size: 17px;">Vulnerabilities of Ontario’s Beef Sector: Comparative Welfare Analysis of Trade and Biosecurity Shocks</span>
+  - <span style="font-size: 17px;">_Revisions Requested (Aug 2026) - Agricultural and Resource Economics Review_.</span>
 * <span style="font-size: 17px;">Matching and Local Labor Market Size in Mexico. [Working Paper](https://jorgeperezperez.com/files/PerezMelendezNuno_AKMCitySize.pdf)</span>
-  - <span style="font-size: 17px;">_Revisions Requested_.</span>
-* <span style="font-size: 17px;">Comparing Vulnerabilities in Ontario's Beef Supply Chain</span>
-  - <span style="font-size: 17px;">_Under Review_.</span>
+  - <span style="font-size: 17px;">_Submitted after revisions (Jul 2026) - Regional Science and Urban Economics_.</span>
 * <span style="font-size: 17px;">How do multi-product sellers approximate complex pricing mechanisms.</span>
+* <span style="font-size: 17px;">Drought impacts on beef supply chain.</span>
 
 Education
 ======
