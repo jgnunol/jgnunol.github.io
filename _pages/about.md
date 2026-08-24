@@ -45,8 +45,9 @@ Contact information
 ======
 <span style="font-size: 17px;">
 jnuno [at] uoguelph [dot] ca <br/>
-50 Stone Road East.<br/>
-J.D. MacLachlan Building<br/>
-Office 307<br/>
+Department of Food, Agricultural & Resource Economics (FARE)
+University of Guelph
+Johnston Hall, First Floor South Wing
+Office 120
 Guelph, Ontario, Canada N1G 2W1
 </span>
