@@ -45,9 +45,9 @@ Contact information
 ======
 <span style="font-size: 17px;">
 jnuno [at] uoguelph [dot] ca <br/>
-Department of Food, Agricultural & Resource Economics (FARE)
-University of Guelph
-Johnston Hall, First Floor South Wing
-Office 120
-Guelph, Ontario, Canada N1G 2W1
+Department of Food, Agricultural & Resource Economics (FARE)<br/>
+University of Guelph<br/>
+Johnston Hall, First Floor South Wing<br/>
+Office 120<br/>
+Guelph, Ontario, Canada N1G 2W1<br/>
 </span>
